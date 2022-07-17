@@ -1,0 +1,33 @@
+textarea {
+    width: 79vw;
+    height: 20vh;
+    border-radius: 12px;
+    display: block;
+}
+.navbar-brand {
+    display: flex;
+    flex-wrap: wrap;
+}
+.form-check {
+    padding-right: 4px;
+}
+.credits {
+	background: #A9A9A9;
+	color: #001;
+	text-align: center;
+	padding: 10px;
+}
+
+.credits a {
+	color: #444;
+    text-decoration: none;
+
+}
+.credits a:hover {
+    color: rgb(0, 26, 255);
+}
+
+.custom-top {
+    text-align: center !important;
+    width: 120%;
+}
